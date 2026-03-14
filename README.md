@@ -8,3 +8,4 @@ A standardized framework for evaluating data quality across six core dimensions,
 - **Reproducible Environment**: `requirements.txt` for easy dependency setup.
 
 ## 📁 Project Structure
+For technical details, see [docs/technical_note.md](docs/technical_note.md).
